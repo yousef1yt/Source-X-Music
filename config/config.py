@@ -36,13 +36,13 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 OWNER_ID = list(map(int, getenv("OWNER_ID", "7004732448 7004732448").split()))
 
 CHANNEL_SUDO = getenv(
-    "CHANNEL_SUDO", "قناتك بدون @"
+    "CHANNEL_SUDO", "cecrr"
 )  # ???? ????? ???? @
 YAFA_NAME = getenv(
-    "YAFA_NAME", "اسم قناتك"
+    "YAFA_NAME", "اضغط هنا للاشتراك"
 )  # ??? ?????
 YAFA_CHANNEL = getenv(
-   " YAFA_CHANNEL", "https://t.me/"
+   " YAFA_CHANNEL", "https://t.me/cecrr"
 )  # ???? ?????
 # ???? ?????
 
