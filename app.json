@@ -20,11 +20,6 @@
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
         "value": "6094238403",
         "required": true
-      },        
-      "MONGO_DB_URI": {
-        "description": "Mongo DB URL",
-        "value": "mongodb+srv://uffufufufu:zzxxzzxx@cluster0.mvja5qq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-        "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot.",
